@@ -1,3 +1,6 @@
 .*/**
 .bash*
+.viminfo
 !.bashrc
+etc/consul/data/**
+!**/.gitkeep
