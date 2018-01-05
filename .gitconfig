@@ -1,3 +1,5 @@
 [user]
 	email = fabio@tramasoli.com
 	name = Fábio Tramasoli
+[credential]
+	helper = cache --timeout=-1
