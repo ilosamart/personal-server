@@ -1,3 +1,3 @@
-# Bootstrap script by ilosamart
+# Bootstrap script by tramasoli
 sshd
 $HOME/bin/sart-consul.sh
